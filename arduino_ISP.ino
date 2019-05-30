@@ -44,9 +44,9 @@
 // - More information at http://code.google.com/p/mega-isp
 
 #include "pins_arduino.h"
-#define RESET     SS
+#define RESET     10
 
-#define LED_HB    9
+#define LED_HB    13
 #define LED_ERR   8
 #define LED_PMODE 7
 #define PROG_FLICKER true
